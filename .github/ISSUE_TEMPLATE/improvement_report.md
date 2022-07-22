@@ -1,6 +1,6 @@
-name: Improvement Report
-description: File a improvement report
-title: ''
+name: 'Improvement Report'
+description: 'File a improvement report'
+title: '[Improvement]'
 labels: ["Improvement"]
 assignees: ''
 body:

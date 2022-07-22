@@ -1,6 +1,6 @@
 name: Improvement Report
 description: File a improvement report
-title: "[Improvement]: "
+title: ''
 labels: ["Improvement"]
 assignees: ''
 body:

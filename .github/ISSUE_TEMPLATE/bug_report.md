@@ -4,6 +4,7 @@ about: Create a report to help us improve mejora
 title: ''
 labels: ''
 assignees: ''
+email reporter: ''
 
 ---
 

@@ -4,6 +4,8 @@ about: Create a report to help us improve
 title: ''
 labels: bug
 assignees: 
+
+---
 body:
   - type: markdown
     attributes:
@@ -17,3 +19,4 @@ body:
       options:
         - 1.0.2 (Default)
         - 1.0.3 (Edge)
+---
